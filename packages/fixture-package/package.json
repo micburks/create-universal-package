@@ -34,13 +34,13 @@
   },
   "dependencies": {
     "@cup/fixture-dependency-pure": "^0.0.4",
-    "babel-eslint": "8"
+    "babel-eslint": ">8"
   },
   "peerDependencies": {
     "react": "^16.3.2"
   },
   "devDependencies": {
-    "@babel/preset-react": "^7.0.0-beta.55",
+    "@babel/preset-react": "^7.0.0",
     "create-universal-package": "^3.4.7",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
